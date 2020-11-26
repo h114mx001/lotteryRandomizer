@@ -16,7 +16,7 @@
  3. Run the stupid prizeRandomizer.cpp 
  
 **What stupid features this code can do?**
- + SuperSuperSuper equal randomizer (but you know they are pseudo-randomized" =)))
+ + SuperSuperSuper equal randomizer (but you know they are "pseudo-randomized" =)))
  + A person can not get a type of prize twice
  + A ticket can not be randomized twice.
  + Ticket owners have to wait 3 seconds each time this stupid code print the next result =))))
