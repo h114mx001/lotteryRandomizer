@@ -6,10 +6,10 @@
 ***How to use this stupid code***
 
  1. Create a .csv file, format like this:
-	 *name1*,*numberOfTickets1*
-	 *name2*,*numberOfTickets2*
-	 *name3*,*numberOfTickets3*
-	 *name4*,*numberOfTickets4*
+	 *name1*,*numberOfTickets1*\
+	 *name2*,*numberOfTickets2*\
+	 *name3*,*numberOfTickets3*\
+	 *name4*,*numberOfTickets4*\
 	 ...
 	 
  2. Run the stupid nameInserter.cpp
