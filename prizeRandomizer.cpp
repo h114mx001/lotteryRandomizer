@@ -54,11 +54,11 @@ int main(){
     cout << "                       +  1 First prize    - 50.000 VND\n";
     cout << "                       +  2 Second prizes  - 20.000 VND\n";
     cout << "                       +  3 Third prizes   - 15.000 VND\n";
-    cout << "                       + 10 Forth prizes   - 10.000 VND\n";
+    cout << "                       + 10 Fourth prizes  - 10.000 VND\n";
     cout << normal << "                  ======================================================================\n";
     cout << red << "                  Before starting the lucky draw, let's congratulate three top server players!!! \n";
-    cout << "                  1st:   Le Ngoc Anh, Nguyen Le Huong Tra:    22 tickets each \n";
-    cout << "                  2nd:   Bui Thi Ngoc Phuong:                 20 tickets \n";
+    cout << "                  1st:   Le Ngoc Anh, Nguyen Le Huong Tra:    22 tickets each  - 20.000 VND \n";
+    cout << "                  2nd:   Bui Thi Ngoc Phuong:                 20 tickets       - 15.000 VND\n";
     char ready;
     cout << "                  Shall we start? (Y/N): ";
     cin >> ready;               //Make color =)))
